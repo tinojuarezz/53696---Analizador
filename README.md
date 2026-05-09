@@ -9,3 +9,8 @@ Una vez copiada la cadenas, guarde el archivo (ctrl + s) e ingrese a la terminal
 En caso de querer probar otra cadena, copie una diferente, vuelva a guardar el archivo y en la terminal ejecute nuevamente: 
 
 npm.cmd start
+
+
+Para clonar el repositiorio: 
+
+git clone https://github.com/tinojuarezz/53696---Analizador.git
